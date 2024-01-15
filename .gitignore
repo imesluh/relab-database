@@ -1,0 +1,5 @@
+/passwdMechSys.txt
+*.pyc
+/passwdRobI.txt
+*.txt
+*students_*.csv
